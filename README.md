@@ -11,10 +11,6 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**1994-08-02**|**Nonlinear Analysis of Experimental Noisy Time Series in Fluidized Bed Systems**|E. Caputo et.al.|[comp-gas/9407003v1](http://arxiv.org/abs/comp-gas/9407003v1)|null|
-|**2003-01-28**|**Discovery of Early Optical Emission from GRB 021211**|D. W. Fox et.al.|[astro-ph/0301377v2](http://arxiv.org/abs/astro-ph/0301377v2)|null|
-|**2001-04-09**|**The X-ray Spectrum of the Rapid Burster using the Chandra HETGS**|H. L. Marshall et.al.|[astro-ph/0103203v4](http://arxiv.org/abs/astro-ph/0103203v4)|null|
-|**2000-12-19**|**The Quiescent X-Ray Spectrum of the Neutron Star in Cen X-4 Observed with Chandra/ACIS-S**|Robert E. Rutledge et.al.|[astro-ph/0012400v1](http://arxiv.org/abs/astro-ph/0012400v1)|null|
 |**2023-11-24**|**How to ensure a safe control strategy? Towards a SRL for urban transit autonomous operation**|Zicong Zhao et.al.|[2311.14457v1](http://arxiv.org/abs/2311.14457v1)|null|
 |**2023-11-23**|**Harnessing Large Language Models to Enhance Self-Regulated Learning via Formative Feedback**|Steffen Steinert et.al.|[2311.13984v1](http://arxiv.org/abs/2311.13984v1)|null|
 |**2023-11-21**|**Scheduling Distributed Flexible Assembly Lines using Safe Reinforcement Learning with Soft Shielding**|Lele Li et.al.|[2311.12572v1](http://arxiv.org/abs/2311.12572v1)|null|
