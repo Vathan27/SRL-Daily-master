@@ -178,6 +178,7 @@ def json_to_md(filename,md_filename,
             f.write("<details>\n")
             f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")
+            f.write("    <li><a href=#Usage>Usage</a></li>")
             for keyword in data.keys():
                 day_content = data[keyword]
                 if not day_content:
@@ -187,6 +188,10 @@ def json_to_md(filename,md_filename,
             f.write("  </ol>\n")
             f.write("</details>\n\n")
         
+        f.write(f"## {keyword}\n")
+        f.write(f"> Just simply enter `python ./daily_SRL.py`\n")
+        f.write(f"notes: Robust RL is supported.\n\n")
+
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:

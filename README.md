@@ -3,12 +3,15 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href=#Usage>Usage</a></li>
     <li><a href=#SRL>SRL</a></li>
   </ol>
 </details>
 
 ## Usage
+`python ./daily_SRL.py`
 
+notes: Robust RL is supported.
 
 ## SRL
 
